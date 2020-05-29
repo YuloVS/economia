@@ -8,7 +8,7 @@
     <meta name="author" content="" />
     <title>3DSolutions</title>
     <!-- Favicon-->
-    <link rel="icon" type="shortcut icon" href="assets/img/portfolio/thumbnails/1.jpg" />
+    <link rel="icon" type="shortcut icon" href="assets/img/favicon1.ico" />
     <!-- Font Awesome icons (free version)-->
     <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
     <!-- Google fonts-->
@@ -26,8 +26,8 @@
     <!-- Navigation-->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
         <div class="container">
-            <a class="navbar-brand js-scroll-trigger" href="#page-top"><img src="assets/img/portfolio/thumbnails/1.jpg"
-                    alt="" width="70" height="50"></a><button class="navbar-toggler navbar-toggler-right" type="button"
+            <a class="navbar-brand js-scroll-trigger" href="#page-top"><img src="assets/img/3DSolutions.png" alt=""
+                    width="70" height="50"></a><button class="navbar-toggler navbar-toggler-right" type="button"
                 data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
                 aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
