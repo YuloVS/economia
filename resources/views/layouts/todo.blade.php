@@ -8,7 +8,7 @@
     <meta name="author" content="" />
     <title>3DSolutions</title>
     <!-- Favicon-->
-    <link rel="icon" type="image/x-icon" href="{{asset("assets/img/favicon1.ico")}}" />
+    <link rel="icon" type="shortcut icon" href="{{asset("assets/img/favicon1.ico")}}" />
     <!-- Font Awesome icons (free version)-->
     <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
     <!-- Google fonts-->
