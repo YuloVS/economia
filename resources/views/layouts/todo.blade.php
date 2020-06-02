@@ -130,8 +130,8 @@
                     <a class="portfolio-box" href="assets/img/portfolio/thumbnails/2.jpg"><img class="img-fluid"
                             src="assets/img/portfolio/thumbnails/2.jpg" alt="" />
                         <div class="portfolio-box-caption">
-                            <div class="project-category text-white-50">SALUD</div>
-                            <div class="project-name">Sujeta viseras</div>
+                            <div class="project-category text-white-50">FIGURAS</div>
+                            <div class="project-name">Figura de Iron Man</div>
                         </div>
                     </a>
                 </div>
@@ -139,8 +139,8 @@
                     <a class="portfolio-box" href="assets/img/portfolio/thumbnails/3.jpg"><img class="img-fluid"
                             src="assets/img/portfolio/thumbnails/3.jpg" alt="" />
                         <div class="portfolio-box-caption">
-                            <div class="project-category text-white-50">SALUD</div>
-                            <div class="project-name">Remaches sujeta acetato</div>
+                            <div class="project-category text-white-50">ESTUDIOS</div>
+                            <div class="project-name">Prototipo bucal desmontable</div>
                         </div>
                     </a>
                 </div>
@@ -167,7 +167,7 @@
                             src="assets/img/portfolio/thumbnails/6.jpg" alt="" />
                         <div class="portfolio-box-caption p-3">
                             <div class="project-category text-white-50">NIÑOS</div>
-                            <div class="project-name">Juguetes</div>
+                            <div class="project-name">Juguetes y figuras</div>
                         </div>
                     </a>
                 </div>
@@ -175,11 +175,18 @@
         </div>
     </div>
     <!-- Call to action-->
+    <section class="page-section text-white" style="background-color: #f4623a">
+        <div class="container text-center">
+            <h2 class="mb-4">Aceptamos todos los medios de pago</h2>
+            <!--<a class="btn btn-light btn-xl" href="#muestraparaeconomia">Comprar</a>-->
+            <img class="img-fluid" src="assets/img/medios.png" alt="" />
+        </div>
+    </section>
     <section class="page-section bg-dark text-white">
         <div class="container text-center">
-            <h2 class="mb-4">Visita nuestra tienda en mercadolibre</h2>
-            <a class="btn btn-light btn-xl" href="#muestraparaeconomia">Vea nuestro
-                productos!</a>
+            <h2 class="mb-4"></h2>
+            <!--<a class="btn btn-light btn-xl" href="#muestraparaeconomia">Comprar</a>-->
+            <img class="img-fluid" src="assets/img/envios.png" alt="" />
         </div>
     </section>
     <!-- Contact-->
